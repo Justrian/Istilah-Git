@@ -11,3 +11,4 @@ clone 	 = mengambil repo dari remote
 push 	   = mengirimkan commit ke repo
 pull 	   = mengambil commit dari repo
 touch    = membuat file
+nano     = mengoding dari terminal
